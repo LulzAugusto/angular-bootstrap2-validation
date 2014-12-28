@@ -1,9 +1,9 @@
 (function() {
-	'use strict';
+    'use strict';
 
-	angular
-		.module('bootstrap2.validation')
-		.value('ErrorMessages', {
+    angular
+        .module('bootstrap2.validation')
+        .value('ErrorMessages', {
             'email': 'Email inválido',
             'max': 'Valor máximo: ',
             'maxlength': 'Caracteres máximos: ',
