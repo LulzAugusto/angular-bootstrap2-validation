@@ -1,0 +1,25 @@
+{
+  "name": "angular-bootstrap2-validation",
+  "version": "0.1.0",
+  "homepage": "https://github.com/LulzAugusto/angular-bootstrap2-validation",
+  "authors": [
+    "Luiz Augusto <luiz66@gmail.com>"
+  ],
+  "description": "AngularJS directive to make easier to apply Twitter Bootstrap 2.3.2 form validation",
+  "main": "src/angular-bootstrap2-validation.js",
+  "keywords": [
+    "angularjs",
+    "bootstrap2",
+    "bootstrap",
+    "validation",
+    "showerros"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
