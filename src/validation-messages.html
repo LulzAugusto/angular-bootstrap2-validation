@@ -1,0 +1,3 @@
+<div class="help-block" ng-show="showMessages()">
+	<small ng-repeat="(errorType, errorValue) in inputCtrl.$error">{{errorMessages[errorType]}}{{errorValues[errorType]}}</small>
+</div>
